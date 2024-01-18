@@ -127,7 +127,7 @@ public class GoT {
         }
         System.out.println(map);
 
-        System.out.println();
+
 
 
     }
